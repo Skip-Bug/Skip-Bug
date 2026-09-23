@@ -37,10 +37,8 @@ Python-разработчик с опытом автоматизации биз�
 
 
 ### 📊 Статистика GitHub
-
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Skip-Bug&show_icons=true&theme=radical&hide_border=true&locale=ru)
-
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Skip-Bug&layout=compact&theme=radical&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Skip-Bug&theme=radical)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Skip-Bug&theme=radical)
 
 ---
 
