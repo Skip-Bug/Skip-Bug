@@ -45,7 +45,7 @@ Python-разработчик с опытом автоматизации биз�
 ### 📫 Как со мной связаться
 
 *   **Telegram:** @gribojor
-*   **Email:** gribojor@example.com
+*   **Email:** gribojor@gmail.com
 *   **Профиль на DVMN:** [ссылка на мой профиль](https://dvmn.org/user/gribojor/)
 *   **Резюме на hh.ru:** [ссылка на мое резюме](https://nadym.hh.ru/resume/d6cf6993ff107329aa0039ed1f4536786b6256?print=true)
 
