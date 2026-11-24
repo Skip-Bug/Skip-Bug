@@ -49,8 +49,9 @@ Python-разработчик с опытом автоматизации биз�
 
 *   **Telegram:** @gribojor
 *   **Email:** gribojor@gmail.com
-*   **Профиль на DVMN:** [ссылка на мой профиль](https://dvmn.org/user/gribojor/)
-*   <img width="300" height="200" alt="Screenshot 2026-08-30 012950" src="https://github.com/user-attachments/assets/a1f26cd4-54f4-45ca-a447-8c65c0d9689f" />
+*   **Профиль на DVMN:** [ссылка на мой профиль](https://dvmn.org/user/gribojor/)   
+      Мои сертификаты:
+*   <img width="300" height="200" alt="Screenshot 2026-08-30 012950" src="https://github.com/user-attachments/assets/a1f26cd4-54f4-45ca-a447-8c65c0d9689f" /> <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/a61cffd2-addb-4d28-929c-4483f84ed8ab" />
 *   **Резюме на hh.ru:** [ссылка на мое резюме](https://nadym.hh.ru/resume/d6cf6993ff107329aa0039ed1f4536786b6256?print=true)
 
 ---
